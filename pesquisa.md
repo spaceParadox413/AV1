@@ -36,3 +36,13 @@ O Visual Studio Code (VSCode) é um editor de código-fonte leve que pode ser ut
 
 
 Ele suporta diversos tipos de extensões, como .html, .css .c, .test e .py (por meio de plugins instalados pelo próprio VSCode).
+
+
+
+# Referências
+
+https://www.atlassian.com/br/git/tutorials/what-is-git#:~:text=O%20Git%20%C3%A9%20um%20projeto,e%20de%20c%C3%B3digo%2Dfonte%20aberto.
+
+https://ebaconline.com.br/blog/o-que-e-github#:~:text=O%20GitHub%20%C3%A9%20uma%20plataforma,faz%20o%20registro%20de%20mudan%C3%A7as.
+
+https://www.treinaweb.com.br/blog/vs-code-o-que-e-e-por-que-voce-deve-usar#:~:text=O%20Visual%20Studio%20Code%20(VS,com%20HTML%2C%20CSS%20e%20JavaScript.
